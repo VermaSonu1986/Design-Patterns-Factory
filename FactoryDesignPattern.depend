@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1628517519 source:c:\cpp\code\factorydesignpattern\vehicle.cpp
+	"Vehicle.h"
+	<iostream>
+
+1628518992 c:\cpp\code\factorydesignpattern\vehicle.h
+
+1628519014 source:c:\cpp\code\factorydesignpattern\factory.cpp
+	"Factory.h"
+	"Vehicle.h"
+
+1628519005 c:\cpp\code\factorydesignpattern\factory.h
+	"Vehicle.h"
+
+1628518714 source:c:\cpp\code\factorydesignpattern\main.cpp
+	<iostream>
+	"Vehicle.h"
+	"Factory.h"
+
